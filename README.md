@@ -1,2 +1,2 @@
 ﻿# Donate-Now
-Assiggnment 1
+Assignment 1
