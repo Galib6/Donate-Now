@@ -193,17 +193,24 @@ h3 {
 
 .flexible-container {
     display: flex;
-    margin-bottom: 5px;
+    margin-bottom: 3%;
     margin-left: 5%;
-    margin-left: 5%;
+    margin-right: 5%;
     padding-left: 2%;
     padding-right: 2%;
     justify-content: space-between;
+    flex-direction: row;
+    background-color: antiquewhite;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 2%;
+
 }
 
 .half-width {
-    width: 50%;
+    width: 45%;
     padding: 2%;
+
+
 
 }
 
@@ -275,7 +282,7 @@ h3 {
     margin-left: 20%;
     margin-right: 20%;
     background-color: rgb(252, 237, 231);
-    margin-bottom: 10%;
+    margin-bottom: 70px;
 
 }
 
